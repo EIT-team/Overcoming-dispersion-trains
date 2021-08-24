@@ -29,7 +29,7 @@ dxr0 = 0.1/0.01; % dxr in the model, tbme
 coefdxr = (dzdxr_uv/dxr0)*(dxrexp/dxrmod); % dz falls 10 times faster than dxR, ref tbme
 coefVdZ = (coef_el*coefdxr*coefdxi)*(Icoef*coef_cond^2); 
 
-dt = 0.01; % MUST BE THE SAME AS Fs IN THE SIGNAL. Need to check Fs in the signal first
+dt = 0.01;
 
 % C
 vC = 0.8; devC = 0.3; % Based on CAPs from ex-vivo pig subdiaphragmatic
