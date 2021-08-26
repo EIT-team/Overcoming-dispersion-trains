@@ -1,5 +1,5 @@
 # Overcoming-dispersion-trains
-This repository provides MATLAB code for processing the ex vivo data recorded on the porcine subdiaphragmatic nerves stimulated with trains of stimuli.
+This repository provides COMSOL and MATLAB model files discussed in the paper: "Method for overcoming temporal dispersion in unmyelinated nerves to image them with Electrical Impedance Tomography (EIT)", I Tarotin et al. 
 
 List of attached files:
 
